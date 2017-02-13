@@ -1,6 +1,6 @@
 <?php
 
-namespace Pingpong\Support;
+namespace Magnusdeus\Support;
 
 use Illuminate\Filesystem\Filesystem;
 use Illuminate\Support\Collection;

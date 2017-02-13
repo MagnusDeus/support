@@ -1,6 +1,6 @@
 <?php
 
-namespace Pingpong\Support;
+namespace Magnusdeus\Support;
 
 class Stub
 {

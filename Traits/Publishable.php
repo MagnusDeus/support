@@ -1,6 +1,6 @@
 <?php
 
-namespace Pingpong\Support\Traits;
+namespace Magnusdeus\Support\Traits;
 
 use Carbon\Carbon;
 
