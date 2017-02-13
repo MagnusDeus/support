@@ -1,0 +1,27 @@
+{
+  "name": "magnusdeus/support",
+  "description": "Support Component of Pingpong Sky Package",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "MagnusDeus",
+      "email": "bv.volkov@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.6.4",
+    "illuminate/filesystem": "5.4.*",
+    "illuminate/support": "5.4.*",
+    "erusev/parsedown-extra": "0.7.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Magnusdeus\\Support\\": ""
+    },
+    "files": [
+      "helpers.php"
+    ]
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
